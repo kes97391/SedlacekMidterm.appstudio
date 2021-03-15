@@ -1,4 +1,8 @@
-let userBucketList = ["Go to Mexico", "Get my Degree", "Buy a car"]
+let userBucketList = ["Buy Car", "Sell House", "Go to Florida"]
+
+for(let i = 0; i < userBucketList.length; i++) {
+  console.log(userBucketList[i])
+}
 
 btnView.onclick=function(){
   let Display = lblViewItems.value
@@ -16,13 +20,8 @@ btnAddItem.onclick=function(){
 
 
 
-
-
-
-
-
-
-/*let dogsRUsItems = ["Crocheted Dog Toy $10.00", "Slow Feeder Bowl 14.00", "Pawz Grey Treat Jar $20.00", "Blue Sweet Dreams Thermal Pajamas $30.00", "Checker Chewy Vuiton Bowl $32.00", "Red Heart Sweater Dress $27.00", "Velvet Hair Bow - Sun Kissed $12.00", "Into the Wild Leash $27.00"]
+/*
+let dogsRUsItems = ["Crocheted Dog Toy $10.00", "Slow Feeder Bowl 14.00", "Pawz Grey Treat Jar $20.00", "Blue Sweet Dreams Thermal Pajamas $30.00", "Checker Chewy Vuiton Bowl $32.00", "Red Heart Sweater Dress $27.00", "Velvet Hair Bow - Sun Kissed $12.00", "Into the Wild Leash $27.00"]
 
 btnWishList.onclick=function(){
   let Display = lblProductsAvailable.value 
@@ -42,6 +41,5 @@ btnDesiredItem.onclick=function() {
 
 
 
-btnView.onclick=function(){
-  
-}
+
+
