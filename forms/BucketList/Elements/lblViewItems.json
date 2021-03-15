@@ -1,11 +1,5 @@
 {
-  "!type": "Label",
-  "align": "left",
-  "alignVertical": "top",
-  "backgroundColor": "",
-  "borderColor": "",
-  "borderStyle": "",
-  "borderWidth": "",
+
   "bottom": "auto",
   "cached_js": "",
   "cached_js_script_hash": "d41d8cd98f00b204e9800998ecf8427e",
@@ -15,13 +9,7 @@
   "display": "",
   "expanded_pmp": null,
   "fontFamily": "",
-  "fontSize": 16,
-  "fontStyle": "",
-  "fontWeight": "bold",
-  "height": "auto",
-  "hidden": "",
-  "id": "lblViewItems",
-  "left": 98,
+
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -44,7 +32,6 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "text": "View items here",
-  "top": 325,
+
   "width": "auto"
 }
